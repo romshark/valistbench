@@ -1,0 +1,9 @@
+time-seed = false
+random-seed = 1
+min-values = 16
+max-values = 16
+min-val = 0
+max-val = 1000000000
+labels = ["A", "B", "C", "D"]
+delimiters = ["="]
+separators = [";"]

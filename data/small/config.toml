@@ -1,0 +1,9 @@
+time-seed = false
+random-seed = 1
+min-values = 1000
+max-values = 1000
+min-val = 0
+max-val = 1000
+labels = ["ATB", "YYH", "JKL", "XLP"]
+delimiters = [" = "]
+separators = ["; "]
